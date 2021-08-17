@@ -4,7 +4,6 @@ import Synth1Steps from './Synth1Steps'
 import Synth2Steps from './Synth2Steps'
 import Synth3Steps from './Synth3Steps'
 
-
 let synth1, synth2, synth3
 let counter, loopBeat
 let transport = Tone.Transport
